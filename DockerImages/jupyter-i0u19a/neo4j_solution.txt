@@ -1,0 +1,11 @@
+What is the shortest path between the genes CRISP3 and ADAM22?
+MATCH (crisp3:Gene {name:"CRISP3"}), (adam22:Gene {name:"ADAM22"}), p = shortestPath((crisp3)-[*..5]-(adam22)) RETURN p;
+
+What are the 3 gene nodes with the highest degree?
+MATCH (g:Gene)-[r]-() RETURN g, count(r) as outdegree order by outdegree desc limit 10;
+
+Are there any gene-gene connections that might be due to indirect connections? In other words: which 2 genes are connected in 2 steps that are also connected in 1 step? That might mean that the direct connection is actually indirect.
+MATCH (g1:Gene)--(g2:Gene)--(g3:Gene), (g1:Gene)--(g3:Gene) RETURN g1,g2,g3 LIMIT 10;
+
+Are there any cliques (= fully-connected subgraphs) of exactly 4 nodes? Return 1.
+MATCH (g1:Gene),(g2:Gene),(g3:Gene),(g4:Gene),(g1)--(g2)--(g3)--(g4),(g1)--(g3),(g2)--(g4) RETURN g1,g2,g3,g4 LIMIT 1;

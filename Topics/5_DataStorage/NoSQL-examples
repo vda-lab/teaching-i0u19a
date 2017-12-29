@@ -1,0 +1,12 @@
+# Redis
+
+* `cd ~/Projects/docker-images/redis`
+* `sh docker-run.sh` => starts redis server
+* `docker -it --rm jandot/redis /bin/bash` because we need access to `redis-cli`
+* `redis-cli -h 192.168.99.100`
+
+# MongoDB
+
+
+# Neo4j
+`docker run -d -p 7474:7474 neo4j`

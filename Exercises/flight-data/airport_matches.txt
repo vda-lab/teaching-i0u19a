@@ -1,0 +1,2096 @@
+Balandino	
+Domododevo	
+Heydar Aliyev	
+Khrabrovo	
+Pulkovo	
+Beaufort Mcas	
+Nizhnevartovsk	
+Tolmachevo	
+Penza Airport	UWPP
+Bugulma Airport	UWKB
+Andahuaylas	
+Rodriguez Ballon	
+Alferez Fap David Figueroa Fernandini Airport	SPNC
+Cadete Guillermo Del Castillo Paredes	
+Kotoka Intl	
+Senou	
+Bobo Dioulasso	
+Cadjehoun	
+Douala	
+Diori Hamani	
+Orly	
+Ouagadougou	
+Eloy Alfaro Intl	
+Zurich	
+Ferihegy	
+Chisinau Intl	
+Sabiha Gokcen	
+Traian Vuia	
+Arvidsjaur	
+Arlanda	
+Bromma	
+Kastrup	
+Hemavan Airport	ESUT
+Kramfors Solleftea	
+Saab	
+Lycksele	
+Mariehamn	
+Orebro	
+Visby	
+Vilhelmina	
+Kodiak	
+Larsen Bay Airport	PALB
+Seal Bay Seaplane Base	
+Bacolod	
+Baiyun Intl	
+Cotabato	
+Mactan Cebu Intl	
+Cagayan De Oro	
+Catarman National Airport	RPVF
+Calbayog Airport	RPVC
+General Santos International Airport	RPMR
+Xiaoshan	
+Iloilo	
+Jolo Airport	RPMJ
+Kalibo	
+Laoag Intl	
+Legazpi	
+Ninoy Aquino Intl	
+Godofredo P	
+Pudong	
+Surigao Airport	RPMS
+Tagbilaran	
+Tuguegarao Airport	RPUT
+Busuanga	
+Naga Airport	RPUN
+Zamboanga Intl	
+Lawica	
+Schwechat	
+Southeast Iowa Regional Airport	KBRL
+Lambert St Louis Intl	
+Ketchikan Intl	
+Metlakatla Seaplane Base	PAMM
+Suvarnabhumi Intl	
+Meilan	
+Phuket Intl	
+Kansai	
+Macau Intl	
+Lishe	
+Penang Intl	
+Phnom Penh Intl	
+Siem Reap	
+Yangon Intl	
+Dusseldorf	
+Friedrichshafen	
+Graz	
+Hamburg	
+Tegel	
+Schiphol	
+Barcelona	
+Mohammed V Intl	
+Mediterranee	
+Ibn Batouta	
+Treviso	
+Flamingo	
+Hato	
+Andizhan Airport	UTKA
+Bukhara	
+Fergana Airport	
+Karshi Khanabad Airport	UTSL
+Ganja Airport	UBBG
+Namangan Airport	UTKN
+Samarkand	
+Tivat	
+Termez Airport	UTST
+Toussaint Louverture Intl	
+Xinzheng	
+Chifeng Airport	ZBCF
+Jiangbei	
+Huanghua	
+Shuangliu	
+Zhoushuizi	
+Changle	
+Baita Airport	
+Luogang	
+Dongshan	
+Taiping	
+Incheon Intl	
+Yinchuan	
+Jingdezhen Airport	ZSJD
+Jiayuguan Airport	ZLJQ
+Quanzhou Airport	
+Kashi	
+Changbei Intl	
+Ganzhou Airport	ZSGZ
+Longdongbao	
+Liangjiang	
+Lijiang Airport	ZPLJ
+Shubuling Airport	ZSLY
+Mianyang Airport	ZUMY
+Lukou	
+Wuxu	
+Taichung Ching Chuang Kang Airport	RCMQ
+Shenyang Taoxian International Airport	
+Shijiazhuang Daguocun International Airport	ZBSJ
+Liuting	
+Tengchong Tuofeng Airport	ZUTC
+Jinan	
+Sungshan	
+Binhai	
+Wusu	
+Diwopu	
+Wenzhou Yongqiang Airport	ZSWZ
+Tianhe	
+Wanxian Airport	ZUWX
+Qingshan	
+Xianyang	
+Gaoqi	
+Xining Caojiabu Airport	ZLXN
+Xuzhou Guanyin Airport	ZSXZ
+Yichang Airport	
+Yining Airport	ZWYN
+Zhongwei Xiangshan Airport	
+Zhuhai Airport	
+Palonegro	
+Olaya Herrera	
+Perales	
+Matecana	
+Vanguardia	
+Belgorod International Airport	UUOB
+Nukus Airport	UTNN
+Nadym Airport	USMM
+Ukhta	
+Barataevka	
+Vnukovo	
+Netaji Subhash Chandra Bose Intl	
+Dubai Intl	
+Jessore	
+Tribhuvan Intl	
+Osmany Intl	
+Grise Fiord Airport	CYGZ
+Resolute Bay	
+Miami Intl	
+Inuvik Mike Zubko	
+Whitehorse Intl	
+Indira Gandhi Intl	
+Kabul Intl	
+EuroAirport Basel-Mulhouse-Freiburg	
+Geneva Cointrin	
+Hurghada Intl	
+Luxor Intl	
+Pristina	
+Skopje	
+Sharm El Sheikh Intl	
+Malaga	
+Bologna	
+Catania Fontanarossa	
+Dresden	
+Dortmund	
+Fiumicino	
+Hannover	
+Balice	
+Leipzig Halle	
+Lisboa	
+Maastricht	
+Malpensa	
+Pisa	
+Laage	
+Sarajevo	
+Makedonia	
+Sofia	
+Split	
+Stansted	
+Stuttgart	
+Schonefeld	
+Salzburg	
+Zagreb	
+Akiak Airport	PFAK
+Bethel	
+Chefornak Airport	PACK
+Eek Airport	PAEE
+Kongiganak Airport	PADY
+Kalskag Airport	PALG
+Kipnuk Airport	PAKI
+Kasigluk Airport	PFKA
+Kwigillingok Airport	PAGG
+Quinhagak Airport	PAQH
+Kwethluk Airport	PFKW
+Nightmute Airport	PAGT
+Toksook Bay Airport	PAOO
+Platinum	
+Russian Mission Airport	PARS
+Bocas Del Toro Intl	
+Drake Bay Airport	MRDK
+Arenal Airport	MRAN
+Golfito	
+Nosara	
+Islita Airport	MRIA
+Puerto Jimenez Airport	MRPJ
+Tobias Bolanos International Airport	MRPV
+Tambor Airport	MRTR
+Cabo Velas Airport	MRCV
+Aerotortuguero Airport	MRAO
+Arusha	
+Amboseli Airport	HKAM
+Entebbe Intl	
+Eldoret Intl	
+Kisumu	
+Kitale	
+Lodwar	
+Mombasa Moi Intl	
+Mwanza	
+Malindi Airport	HKML
+Mtwara	
+Jomo Kenyatta International	
+Nanyuki Civil Airport	
+Ukunda Airport	
+Nairobi Wilson	
+Brunei Intl	
+Butuan	
+Cauayan Airport	RPUY
+Dumaguete	
+Dipolog	
+Pagadian	
+Gimhae Intl	
+Roxas Airport	RPVR
+Sanga Sanga Airport	RPMN
+Virac Airport	RPUV
+Yacuiba	
+Heroes Del Acre	
+Guarulhos Gov Andre Franco Montouro	
+Barajas	
+Juana Azurduy De Padilla	
+Tte Av Jorge Henrich Arauz	
+Viru Viru Intl	
+John A. Osborne Airport	TRPG
+Abakan	
+Sochi	
+Talagi	
+Solovki Airport	ULAS
+Emelyanovo	
+Pashkovskiy	
+Kotlas Airport	ULKK
+Kurumoch	
+Leshukonskoye Airport	ULAL
+Murmansk	
+Mineralnyye Vody	
+Alykel	
+Rostov Na Donu	
+Syktyvkar	
+Sheremetyevo	
+Koltsovo	
+Ufa	
+Knevichi	
+Chacalluta	
+Copiapo	
+Kugluktuk	
+Chesterfield Inlet Airport	CYCS
+Clyde River	
+Arviat	
+Iqaluit	
+Igloolik Airport	CYGT
+Gjoa Haven	
+Rankin Inlet	
+Thompson	
+Repulse Bay	
+Hall Beach	
+Qikiqtarjuaq	
+Whale Cove Airport	CYXN
+Pangnirtung	
+Taloyoak	
+Yellowknife	
+Vadodara	
+Bangalore	
+Chhatrapati Shivaji Intl	
+Coimbatore	
+Cochin	
+Dibrugarh Airport	VEMN
+Lokpriya Gopinath Bordoloi International Airport	VEGT
+Hyderabad	
+Imphal	
+Agartala	
+Jammu	
+Jaipur	
+Lucknow	
+Chennai Intl	
+Patna	
+Pune	
+Raipur	
+Fresh Creek	
+Eilat	
+Sde Dov	
+Berbera	
+Bosaso Airport	HCMF
+Galcaio Airport	HCMR
+Egal Intl	
+Ambouli International Airport	
+Aden Adde International Airport	HCMM
+Sittwe	
+Heho	
+Kawthoung Airport	VYKT
+Mandalay Intl	
+Myeik	
+Bagan Intl	
+Thandwe	
+Tachileik	
+Dawei Airport	VYDW
+Zvartnots	
+Nalchik Airport	URMN
+Cheongju International Airport	RKTU
+Jeju Intl	
+Gimpo	
+Chubu Centrair Intl	
+Ulukhaktok Holman	
+Kimmirut Airport	CYLC
+Kuujjuaq	
+Fukuoka	
+Tokyo Intl	
+Ambler Airport	PAFM
+Wainwright Airport	PAWI
+Ted Stevens Anchorage Intl	
+Aniak Airport	PANI
+Anvik Airport	PANV
+Atqasuk Edward Burnell Sr Memorial Airport	PATQ
+Alakanuk Airport	PAUK
+Buckland Airport	PABL
+Barter Island Lrrs	
+Merle K Mudhole Smith	
+Elim Airport	PFEL
+Emmonak Airport	PAEM
+Kenai Muni	
+Fairbanks Intl	
+Gambell Airport	PAGM
+Golovin Airport	PAGL
+Holy Cross Airport	PAHC
+Homer	
+Hooper Bay Airport	PAHP
+Huslia Airport	PAHL
+Bob Baker Memorial Airport	PAIK
+Kaltag Airport	PAKV
+Koyuk Alfred Adams Airport	PAKK
+Kotlik Airport	PFKO
+Brevig Mission Airport	PFKT
+Kivalina Airport	PAVL
+Koyukuk Airport	PFKU
+Mountain Village Airport	PAMO
+Mekoryuk Airport	PAMY
+Nuiqsut Airport	PAQT
+Nulato Airport	PANU
+Kobuk Airport	PAOB
+Nome	
+Ruby Airport	PARY
+Deadhorse	
+Scammon Bay Airport	PACM
+Shungnak Airport	PAGH
+Shishmaref Airport	PASH
+Shageluk Airport	PAHX
+Shaktoolik Airport	PFSH
+Sleetmute Airport	PASL
+Stony River 2 Airport	
+Savoonga Airport	PASA
+Teller Airport	PATE
+Unalakleet Airport	PAUN
+Chevak Airport	PAVA
+Valdez Pioneer Fld	
+Wales Airport	PAIW
+Selawik Airport	PASK
+White Mountain Airport	PAWM
+Noatak Airport	PAWN
+Almaty	
+Dushanbe	
+Imam Khomeini	
+Khudzhand Airport	UTDL
+Surgut	
+Sharjah Intl	
+Cayo Coco Airport	MUOC
+Orestes Acosta	
+Cancun Intl	
+Cozumel Intl	
+Barnaul	
+Ignatyevo	
+Cheboksary Airport	UWKS
+Elista Airport	URWI
+Irkutsk	
+Kurgan Airport	USUU
+Larnaca	
+Uytash	
+Magnitogorsk	
+Petrozavodsk Airport	ULPB
+Orenburg	
+Salekhard Airport	USDD
+Shpakovskoye	
+Rabil	
+Amilcar Cabral Intl	
+Akhiok Airport	PAKH
+Merignac	
+Lesquin	
+Provence	
+Nantes Atlantique	
+Angads	
+Menara	
+Sale	
+Blagnac	
+Diqing Airport	ZPDQ
+Dali	
+Jinghong	
+Mangshi Airport	ZPLX
+Gaya	
+Bella Coola Airport	CYBD
+Anahim Lake Airport	CAJ4
+Powell River Airport	CYPW
+Comox	
+Canadian Rockies Intl	
+Trail Airport	CAD4
+Masset Airport	CZMT
+Adana	
+Adnan Menderes	
+Antalya	
+Diyarbakir	
+Ercan International Airport	LCEN
+Erzurum	
+Ataturk	
+Erhac	
+Trabzon	
+Ambrosio L V Taravella	
+Carrasco Intl	
+Rae Lakes Airport	CYRA
+Allakaket Airport	PFAL
+Anaktuvuk Pass Airport	PAKP
+Arctic Village Airport	PARC
+Bettles	
+Hughes Airport	PAHU
+Birch Creek Airport	
+Venetie Airport	PAVE
+Changde Airport	ZGCD
+Zhijiang Airport	ZGCJ
+Hyakuri	
+Hongqiao Intl	
+Takamatsu	
+Bemidji Regional Airport	KBJI
+Delta County Airport	KESC
+Ford Airport	KIMT
+Minneapolis St Paul Intl	
+Princess Juliana Intl	
+Nantucket Mem	
+Wallblake	
+Baltimore Washington Intl	
+Cape Girardeau Regional Airport	KCGI
+Terrance B Lettsome Intl	
+New Bedford Regional Airport	KEWB
+Hagerstown Regional Richard A Henson Field	KHGR
+Westchester Co	
+Barnstable Muni Boardman Polando Fld	
+Kirksville Regional Airport	KIRK
+Lebanon Municipal Airport	KLEB
+Lancaster Airport	KLNS
+Eugenio Maria De Hostos	
+Massena Intl Richards Fld	
+Martha\\'s Vineyard	
+Ogdensburg Intl	
+Owensboro Daviess County Airport	KOWB
+Provincetown Muni	
+Knox County Regional Airport	KRKD
+Rutland State Airport	
+Adirondack Regional Airport	KSLK
+Cyril E King	
+Waynesville Rgnl Arpt At Forney Fld	
+Quincy Regional Baldwin Field	KUIN
+Vieques Airport	TJCG
+Araracuara Airport	SKAC
+La Pedrera Airport	SKLP
+Caucaya Airport	SKLG
+Fabio Alberto Leon Bentley	
+Reyes Murillo Airport	SKNQ
+Obando Airport	SKPD
+Los Colonizadores Airport	SKSA
+Villa Garzon Airport	SKVG
+Eleftherios Venizelos Intl	
+Boryspil Intl	
+Gatwick	
+Villafranca	
+Bahrain Intl	
+Bhavnagar	
+Calicut	
+Bandaranaike Intl Colombo	
+Dehradun	
+Diu Airport	VA1P
+Dimapur Airport	VEMR
+Doha Intl	
+Newark Liberty Intl	
+Khajuraho	
+Bagdogra	
+Chandigarh	
+Mangalore	
+Madurai	
+Birsa Munda	
+Silchar	
+Aurangabad	
+Jodhpur	
+Jorhat	
+Kuwait Intl	
+Heathrow	
+Porbandar	
+Rajkot	
+Rajahmundry	
+Tirupati	
+Vijayawada	
+Vishakhapatnam	
+Lester B Pearson Intl	
+Chios	
+Dimokritos	
+Ioannis Kapodistrias Intl	
+Souda	
+Nikos Kazantzakis	
+Mikonos	
+Sitia	
+Santorini	
+Kalamata	
+Mitilini	
+Samos	
+Tirana Rinas	
+Aurillac	
+Mazamet	
+Lannion	
+Biard	
+Montoir	
+Bolzano	
+Parma	
+Batumi	
+Riga Intl	
+Tbilisi	
+Abilene Rgnl	
+Albuquerque International Sunport	
+Faleolo Intl	
+Aspen Pitkin County Sardy Field	
+Hartsfield Jackson Atlanta Intl	
+Kalamazoo	
+Bermuda Intl	
+Bradley Intl	
+Grantley Adams Intl	
+Nashville Intl	
+Boise Air Terminal	
+Brownsville South Padre Island Intl	
+Baton Rouge Metro Ryan Fld	
+Lovell Fld	
+Cedar Rapids	
+Cleveland Hopkins Intl	
+Easterwood Fld	
+Champaign	
+Yeager	
+Columbus Metropolitan Airport	KCSG
+Cheyenne Rgnl Jerry Olson Fld	
+Dubuque Rgnl	
+Denver Intl	
+Melville Hall	
+Durango La Plata Co	
+Detroit Metro Wayne Co	
+Mahlon Sweet Fld	
+Evansville Regional	
+Hector International Airport	KFAR
+Fresno Yosemite Intl	
+Fayetteville Regional Grannis Field	KFAY
+Exuma Intl	
+Galeao Antonio Carlos Jobim	
+Gainesville Rgnl	
+Gulfport-Biloxi	
+Central Nebraska Regional Airport	KGRI
+Gunnison - Crested Butte	
+Yampa Valley	
+Honolulu Intl	
+Jackson Hole Airport	KJAC
+Joplin Rgnl	
+Juneau Intl	
+Lubbock Preston Smith Intl	
+Lafayette Rgnl	
+Lihue	
+Laredo Intl	
+Sangster Intl	
+Kansas City Intl	
+Harrisburg Intl	
+Memphis Intl	
+Rogue Valley Intl Medford	
+Manhattan Reigonal	
+Quad City Intl	
+Mammoth Yosemite Airport	KMMH
+Sawyer International Airport	KSAW
+Monterey Peninsula	
+Dane Co Rgnl Truax Fld	
+Montrose Regional Airport	KMTJ
+Lynden Pindling Intl	
+Narita Intl	
+Kahului	
+Eppley Afld	
+Peshawar Intl	
+Peoria Regional	
+Pittsburgh Intl	
+Providenciales	
+Gregorio Luperon Intl	
+Piarco	
+Tocumen Intl	
+Queretaro Intercontinental	
+Rapid City Regional Airport	KRAP
+Guararapes Gilberto Freyre Intl	
+Reno Tahoe Intl	
+Roswell Intl Air Center	
+Savannah Hilton Head Intl	
+Louisville International Airport	
+Seattle Tacoma Intl	
+Ponciano Arriaga Intl	
+Shannon	
+Sheppard Afb Wichita Falls Muni	
+Deputado Luis Eduardo Magalhaes	
+Cibao Intl	
+Friedman Mem	
+Syracuse Hancock Intl	
+Toncontin Intl	
+Tallahassee Rgnl	
+Tampa Intl	
+Tulsa Intl	
+Tucson Intl	
+Cherry Capital Airport	KTVC
+Texarkana Rgnl Webb Fld	
+Tyler Pounds Rgnl	
+Hewanorra Intl	
+Ixtapa Zihuatanejo Intl	
+Lanzarote	
+Alicante	
+Casale	
+Bilbao	
+Neuenland	
+Zarzis	
+Erbil Intl	
+Faro	
+Baden Airpark	
+Firenze	
+Madeira	
+Fuerteventura	
+Landvetter	
+Westerland Sylt	
+Ibiza	
+Innsbruck	
+Almeria	
+Linz	
+Menorca	
+Nurnberg	
+Olbia Costa Smeralda	
+Gardermoen	
+Asturias	
+Paderborn Lippstadt	
+Palermo	
+Saarbrucken	
+Sevilla	
+Venezia Tessera	
+Jerez	
+Guanambi Airport	SNGI
+Lehigh Valley Intl	
+Banjul Intl	
+Bujumbura Intl	
+Conakry	
+Vilo Acuna Intl	
+Ndjili Intl	
+Kigali Intl	
+Sarasota Bradenton Intl	
+Vilnius Intl	
+Sault Ste Marie	
+Baie Comeau	
+Bagotville	
+Castlegar	
+Fredericton	
+Kingston	
+Gaspe	
+Kamloops	
+Kelowna	
+Chapais Airport	CYMT
+Quebec Jean Lesage Intl	
+Windsor	
+Lethbridge	
+Regina Intl	
+Thunder Bay	
+Quesnel	
+Sudbury	
+Timmins	
+Rouyn Noranda	
+Wabush	
+Saskatoon J G Diefenbaker Intl	
+Medicine Hat	
+Terrace	
+Smithers	
+Penticton	
+Charlottetown	
+Goose Bay	
+Sandspit	
+Chris Hadfield	
+Bathurst Airport	YBTH
+Aracatuba	
+Congonhas	
+Caldas Novas	
+Hercilio Luz	
+Ilheus	
+Zona da Mata Regional Airport	SDZY
+Orlando Bezerra de Menezes Airport	SBJU
+Zumbi Dos Palmares	
+Salgado Filho	
+Professor Urbano Ernesto Stumpf	
+Viracopos	
+Hualien	
+Kaohsiung Intl	
+Shang Yi	
+Magong	
+Fengnin	
+Yancheng Airport	ZSYN
+Dyce	
+Houari Boumediene	
+Deurne	
+Rafic Hariri Intl	
+Bangui M Poko	
+Poretta	
+Anglet	
+Billund	
+Bern Belp	
+Maya Maya	
+Rochambeau	
+Auvergne	
+Carpiquet	
+Cluj Napoca	
+Aix Les Bains	
+Cardiff	
+Damascus Intl	
+Dundee	
+Dublin	
+Dzaoudzi Pamandzi	
+Eindhoven	
+Exeter	
+Genova Sestri	
+Ivalo	
+Khartoum	
+Kittila	
+Linate	
+Ljubljana	
+Murtala Muhammed	
+Lann Bihoue	
+Luxembourg	
+Bale Mulhouse	
+Nouakchott	
+Bolshoye Savino	
+Rivesaltes	
+Marcillac	
+Rotterdam	
+Sibiu	
+Southampton	
+Malabo	
+Entzheim	
+Ivato	
+Torino	
+Carthage	
+Pluguffan	
+Vigo	
+Annaba	
+Touat Cheikh Sidi Mohamed Belkebir	
+Soummam	
+Batna Airport	DABT
+Bordj Badji Mokhtar Airport	DATM
+Biskra	
+Noumerat	
+Jijel	
+Oued Irara	
+Laghouat	
+Ain Arnat Airport	DAAS
+Tindouf	
+Zenata	
+Timimoun	
+Illizi Takhamalt	
+Agatti	
+Gwalior	
+Allahabad	
+Lilabari	
+Jamnagar	
+Jabalpur	
+Kanpur	
+Kullu Manali	
+Ludhiana	
+Shillong Airport	VEBI
+Tezpur Airport	VETZ
+Husein Sastranegara	
+Sepinggan	
+Bintulu	
+Krabi	
+Kuching Intl	
+Labuan	
+Langkawi Intl	
+Polonia	
+Tabing	
+Sandakan	
+Juanda	
+Tawau	
+Hasanuddin	
+Wattay Intl	
+Colima	
+Durango Intl	
+Bahias De Huatulco Intl	
+Minatitlan	
+Quetzalcoatl Intl	
+Xoxocotlan Intl	
+Tajin	
+Tapachula Intl	
+Alghero	
+Elmas	
+Lamezia Terme	
+Corrientes	
+Catamarca	
+Formosa	
+Jujuy	
+Posadas	
+Resistencia	
+Adak Airport	PADK
+Walla Walla Regional Airport	KALW
+Billings Logan International Airport	KBIL
+Bellingham Intl	
+Gallatin Field	KBZN
+Pangborn Field	
+Glacier Park Intl	
+Spokane Intl	
+Helena Rgnl	
+Loreto Intl	
+McGrath Airport	PAMC
+Missoula Intl	
+Tri Cities Airport	KCZG
+Sand Point Airport	PASD
+Sitka Rocky Gutierrez	
+Wrangell Airport	PAWG
+Yakutat	
+Yakima Air Terminal McAllister Field	KYKM
+Bata	
+Mogador Airport	GMMI
+Hassan I Airport	GMML
+Saiss	
+Osvaldo Vieira International Airport	GGOV
+Ouarzazate	
+Plage Blanche	
+Dakhla Airport	GMMH
+Yariguies	
+Kumasi Airport	DGSI
+Takoradi	
+Tamale	
+Joensuu	
+Jyvaskyla	
+Kajaani	
+Kuusamo	
+Keflavik International Airport	BIKF
+Kemi Tornio	
+Kruunupyy	
+Kuopio	
+Kungsangen	
+Oulu	
+Pori	
+Rovaniemi	
+Skelleftea	
+Tartu	
+Turku	
+Tampere Pirkkala	
+Umea	
+Vaasa	
+Aalborg	
+Falconara	
+Astrakhan	
+Tautii Magheraus	
+Bacau	
+Flesland	
+Mihail Kogalniceanu	
+Craiova	
+Crotone	
+Esenboga	
+Humberside	
+Iasi	
+Kemerovo	
+Kjevik	
+Lugano	
+Luqa	
+Durham Tees Valley Airport	EGNV
+Norwich	
+Oradea	
+Pescara	
+Salerno Pontecagnano Airport	
+Reggio Calabria	
+Simferopol Intl	
+Satu Mare	
+Transilvania Targu Mures	
+Vaernes	
+Torp	
+Ashgabat	
+Astana Intl	
+Mercedita	
+Chiayi	
+Tainan	
+Abadan	
+Ardabil Airport	OITL
+Ahwaz	
+Bushehr	
+Mashhad	
+Shiraz Shahid Dastghaib Intl	
+Tabriz Intl	
+Mehrabad Intl	
+Zahedan Intl	
+Chah Bahar	
+Aarhus	
+Nnamdi Azikiwe Intl	
+Dubrovnik	
+Gibraltar	
+Lanseria	
+Harare Intl	
+Inverness	
+Livingstone	
+Maputo	
+Kruger Mpumalanga International Airport	FAKN
+Crown Point	
+Scappoose Industrial Airpark	KSPB
+Asahikawa	
+Kumamoto	
+Kagoshima	
+Miyako	
+Nagasaki	
+Naha	
+Kobe	
+Esbjerg	
+Nottingham East Midlands	
+Eelde	
+Kilimanjaro Intl	
+Benbecula	
+Barra Airport	EGPR
+Campbeltown Airport	EGEC
+Donegal Airport	EIDL
+Guernsey	
+Islay	
+Kirkwall	
+Sumburgh	
+Luton	
+Connaught	
+Stornoway	
+Tiree	
+Darwin Intl	
+Groote Eylandt Airport	YGTE
+Jinnah Intl	
+Baotou Airport	ZBOW
+Heihe Airport	ZYHE
+Jiamusi Airport	ZYJM
+Jinzhou Airport	ZYJZ
+Mudanjiang	
+Yulin Airport	
+Laishan	
+Cat Bi International Airport	VVCI
+Vinh Airport	VVVH
+Kasane	
+Francistown	
+Maun	
+Komatsu	
+Sendai	
+Penzance Heliport	EGHK
+Tresco Heliport	EGHT
+Donetsk Intl	
+Kaunas Intl	
+Lappeenranta	
+Palanga Intl	
+Cheddi Jagan Intl	
+Weihai Airport	ZSWH
+Manicore	
+Borba Airport	SWBR
+Hof Plauen	
+Beihai Airport	ZGBH
+Qamdo Bangda Airport	ZUBD
+Changzhi Airport	ZBCZ
+Datong Airport	ZBDT
+Dachuan Airport	ZUDX
+Dayong Airport	ZGDY
+Pyongyang Intl	
+Fuyang Airport	
+Guangyuan Airport	ZUGU
+Hiroshima	
+Ulanhot Airport	ZBUL
+Kadala	
+Hotan	
+Huangyan Luqiao Airport	ZSLQ
+Jing Gang Shan Airport	
+Quzhou Airport	ZSJU
+Korla Airport	ZWKL
+Luoyang Airport	ZHLY
+Lianyungang Airport	ZSLG
+Bailian Airport	
+Luzhou Airport	ZULZ
+Nyingchi Airport	ZUNZ
+Qiqihar Sanjiazi Airport	ZYQQ
+Daegu Ab	
+Tongliao Airport	ZBTL
+Tunxi International Airport	ZSTX
+Chinggis Khaan Intl	
+Nanping Wuyishan Airport Airport	
+Xilinhot Airport	ZBXH
+Yibin	
+Yiwu Airport	ZSYW
+Yanji Airport	
+Zhanjiang Airport	ZGZJ
+Kallax	
+Daru Airport	AYDU
+Goroka	
+Gurney Airport	AYGN
+Kimbe Airport	AYHK
+Kerema Airport	AYKM
+Nadzab	
+Madang	
+Misima Island Airport	AYMS
+Moro Airport	AYMR
+Girua Airport	AYGR
+Tokua Airport	AYTK
+Tabubil Airport	AYTB
+Kiunga Airport	AYKI
+Wewak Intl	
+Miyazaki	
+Babelthuap	
+Arcata	
+Asmara Intl	
+Appleton	
+Asheville Regional Airport	KAVL
+Bradford Regional Airport	KBFD
+Bismarck Municipal Airport	KBIS
+Akron Canton Regional Airport	KCAK
+Houghton County Memorial Airport	KCMX
+Natrona Co Intl	
+Duluth Intl	
+DuBois Regional Airport	KDUJ
+Chippewa Valley Regional Airport	KEAU
+Erie Intl Tom Ridge Fld	
+Franklin	
+Governors Harbour	
+Idaho Falls Rgnl	
+Imperial Co	
+Ithaca Tompkins Rgnl	
+Hilo Intl	
+Kapalua	
+Niigata	
+Kosrae	
+Bucholz Aaf	
+Klamath Falls Airport	KLMT
+Greenbrier Valley Airport	KLWB
+Muskegon County Airport	KMKG
+Molokai	
+Modesto City Co Harry Sham	
+Myrtle Beach Intl	
+Okayama	
+Southwest Oregon Regional Airport	KOTH
+Barkley Regional Airport	KPAH
+Piedras Negras Intl	
+Pohnpei Intl	
+Rarotonga Intl	
+Redding Muni	
+Rock Springs Sweetwater County Airport	KRKS
+Roanoke Regional	
+San Luis County Regional Airport	KSBP
+Treasure Cay	
+Chuuk Intl	
+Victoria Regional Airport	KVCT
+Yap Intl	
+Yuma Mcas Yuma Intl	
+Turany	
+Karlovy Vary	
+Pardubice	
+Mariana Grajales	
+Kefallinia	
+Limnos	
+Dionysios Solomos	
+Altay Airport	
+Aksu Airport	ZWAK
+Anqing Airport	
+Enshi Airport	ZHES
+Hami Airport	ZWHM
+Zhoushan Airport	ZSZS
+Liping Airport	ZUNP
+Chaklala	
+Jiujiang Lushan Airport	ZSJJ
+Jining Airport 	
+Kuqa Airport	ZWKC
+Karamay Airport	ZWKM
+Meixian Airport	ZGMX
+Nanchong Airport	ZUNC
+Nanyang Airport	
+Osh	
+Tongren	
+Toyama	
+Christchurch Intl	
+Save	
+Kalmar	
+Ornskoldsvik	
+Ronneby	
+Sundsvall Harnosand	
+Kronoberg	
+Loei	
+Mae Sot Airport	VTPM
+Phitsanulok	
+Phrae	
+Sakon Nakhon	
+Trang	
+Ubon Ratchathani	
+Udon Thani	
+Seychelles Intl	
+Basco Airport	RPUO
+Albury	
+Albany Airport	YABA
+Ayers Rock	
+Broome	
+Ballina Byron Gateway	
+Canberra	
+Cocos Keeling Island Airport	
+Coffs Harbour	
+Dunedin	
+Esperance Airport	YESP
+Geraldton Airport	YGEL
+Gladstone Airport	YGLA
+Honiara International	
+Hamilton Island Airport	YBHM
+Hervey Bay Airport	YHBA
+Kalgoorlie Boulder	
+Kununurra	
+Karratha	
+Learmonth	
+Launceston	
+Mildura Airport	YMIA
+Newcastle Airport	YWLM
+Proserpine Whitsunday Coast	
+Port Macquarie Airport	YPMQ
+Rockhampton	
+Rotorua	
+Fua Amotu Intl	
+Townsville	
+Newman Airport	YNWN
+Aberdeen Regional Airport	KABR
+Southwest Georgia Regional Airport	KABY
+Waterloo Regional Airport	KALO
+Alpena County Regional Airport	KAPN
+Watertown Regional Airport	KATY
+Bangor Intl	
+Brunswick Golden Isles Airport	KBQK
+Brainerd Lakes Rgnl	
+Bert Mooney Airport	KBTM
+Cedar City Rgnl	
+Chippewa County International Airport	KCIU
+Daytona Beach Intl	
+Dothan Rgnl	
+Elko Regional Airport	KEKO
+Elmira Corning Rgnl	
+Craven Co Rgnl	
+Mid Delta Regional Airport	KGLH
+Golden Triangle Regional Airport	KGTR
+Jamestown Regional Airport	KJMS
+Mallam Aminu Intl	
+Key Field	KMEI
+Northwest Alabama Regional Airport	KMSL
+Hattiesburg Laurel Regional Airport	KPIB
+Pocatello Regional Airport	KPIH
+Pierre Regional Airport	KPIR
+Pellston Regional Airport of Emmet County Airport	KPLN
+University Park Airport	KUNV
+Tupelo Regional Airport	KTUP
+Thief River Falls	
+Magic Valley Regional Airport	
+Valdosta Regional Airport	KVLD
+Praia International Airport	GVNP
+Ziguinchor	
+Cabinda	
+Catumbela Airport	FNCT
+Luena	
+Malanje	
+Namibe Airport	FNMO
+Huambo	
+Lubango	
+Menongue	
+Kuito	
+Saurimo	
+Shymkent	
+Zhezkazgan Airport	UAKD
+Atyrau	
+Kzyl-Orda	
+Semipalatinsk	
+Aktau	
+Uralsk	
+Floro	
+Bardufoss	
+Bodo	
+Evenes	
+Karmoy	
+Hoybuktmoen	
+Sturup	
+Goleniow	
+Sohag International	
+Kulob Airport	UTDK
+Blackpool	
+Cork	
+Block Island State Airport	KBID
+Weston Airport	EIWT
+Baghdad International Airport	ORBI
+Basrah Intl	
+Sahand Airport	OITM
+Sabzevar National Airport	OIMS
+Bam Airport	OIKM
+Gorgan Airport	OING
+Sulaymaniyah International Airport	ORSU
+Kandahar	
+Kerman	
+Kish Island	
+Lar Airport	OISL
+Mazar I Sharif	
+Al Najaf International Airport	ORNI
+Noshahr Airport	OINN
+Parsabade Moghan Airport	OITP
+Persian Gulf Airport	
+Ramsar	
+Sanandaj	
+General Rivadeneira Airport	SETN
+Nueva Loja Airport	
+Camilo Ponce Enriquez Airport	SETM
+Kabri Dehar Airport	HAKD
+Arba Minch	
+Asosa	
+Axum	
+Bahir Dar	
+Lubumbashi Intl	
+Gode Airport	HAGO
+Gambella	
+Humera Airport	HAHU
+Jimma	
+Lalibella	
+Malakal	
+Makale	
+Samui	
+Alliance Municipal Airport	KAIA
+Branson LLC	
+Chadron Municipal Airport	KCDR
+Canyonlands Field	KCNY
+Dodge City Regional Airport	KDDC
+Huron Rgnl	
+Hays Regional Airport	KHYS
+Sloulin Fld Intl	
+Laramie Regional Airport	KLAR
+Liberal Muni	
+Manistee County-Blacker Airport	
+Page Municipal Airport	KPGA
+Pueblo Mem	
+Provo Municipal Airport	KPVU
+Rhinelander Oneida County Airport	KRHI
+Show Low Regional Airport	KSOW
+Vernal Regional Airport	KVEL
+Visalia Municipal Airport	KVIS
+Worland Municipal Airport	KWRL
+Burgas	
+Narathiwat	
+Funafuti International	
+Cicia Airport	NFCI
+Vunisea Airport	NFKD
+Labasa Airport	NFNL
+Lakeba Island Airport	NFNK
+Rotuma Airport	NFNR
+Nausori Intl	
+Savusavu Airport	NFNS
+Bonriki Intl	
+Matei Airport	NFNM
+Vanua Balavu Airport	NFVB
+Shanhaiguan Airport	ZBSH
+Abha	
+Ataq	
+Sayun International Airport	OYSY
+Hodeidah Intl	
+Socotra Intl	
+Taiz Intl	
+Tinian Intl	
+Armidale	
+Cobar Airport	YCBA
+Moree Airport	YMOR
+Tamworth	
+Tille	
+Bydgoszcz Ignacy Jan Paderewski Airport	EPBY
+Vias	
+Salvaza	
+Ciampino	
+Pleurtuit	
+Robin Hood Doncaster Sheffield Airport	EGCN
+Boutheon	
+Allgau	
+Girona	
+Kerry	
+Pyrzowice	
+Lubeck Blankensee	
+Niederrhein	
+Skavsta	
+Plovdiv	
+Perugia	
+Prestwick	
+Moss	
+Jasionka	
+Santander	
+Trapani Birgi	
+Valladolid	
+Zaragoza Ab	
+Navoi Airport	UTSA
+Yelizovo	
+Urgench Airport	UTNU
+Khomutovo	
+Ovda	
+Fukushima Airport	RJSF
+Osaka Intl	
+Oita	
+Kerteh	
+Kuantan	
+Malacca	
+Aleppo Intl	
+Gassim	
+Port Sudan New International Airport	HSPN
+Yenbo	
+Boa Vista	
+Amarais Airport	SDAM
+Cruzeiro do Sul	
+Londrina	
+Chapeco	
+Phoenix-Mesa Gateway	
+Plattsburgh Intl	
+Youngstown Warren Rgnl	
+Weifang Airport	ZSWF
+Changzhoudao Airport	
+Nanded Airport	VAND
+Bassel Al Assad Intl	
+Pattimura	
+Syamsudin Noor	
+Sentani	
+Jalaluddin	
+Wolter Monginsidi	
+Lombok International Airport	WADL
+Depati Amir	
+Tjilik Riwut	
+Supadio	
+Achmad Yani	
+Moses Kilangin	
+Radin Inten II _Branti_ Airport	WIAT
+Tasiilaq	
+Nuuk	
+Ilulissat	
+Qasigiannguit	
+Aasiaat	
+Paamiut Heliport	BGFH
+Qeqertarsuaq Heliport	BGGN
+Sisimiut Airport	BGSS
+Qaqortoq Heliport	BGJH
+Nanortalik Heliport	BGNN
+Narsaq Heliport	BGNS
+Qaarsut Airport	BGUQ
+Maniitsoq Airport	BGMQ
+Upernavik Airport	BGUK
+Kulusuk	
+Qaanaaq Airport	BGQQ
+Narsarsuaq	
+Ikaria	
+Skiros	
+Alderney	
+Xingyi Airport	ZUYI
+Dunhuang Airport	ZLDH
+Yan'an Airport	
+Tacheng Airport	ZWTC
+Wuhai	
+Mackenzie Airport	CYZY
+Beslan Airport	URMO
+Aitutaki	
+Mangaia Island Airport	NCMG
+Mitiaro Island Airport	NCMR
+Mauke Airport	NCMK
+Balmaceda	
+Carriel Sur Intl	
+Ricardo García Posada Airport	
+Maquehue	
+Arua Airport	HUAR
+Melilla	
+Lanai	
+Pago Pago Intl	
+Hakodate	
+Memanbetsu	
+Obihiro	
+Praslin	
+Longyan Airport	
+Colville Lake Airport	CEB3
+Deline	
+Tulita	
+Sugraly Airport	UTSN
+Deering Airport	PADE
+Sokol	
+Negril Aerodrome	
+Granada	
+Lleida-Alguaire Airport	LEDA
+Leon Airport	LELN
+Lviv Intl	
+Pamplona	
+Burgos Airport	LEBG
+Salamanca	
+Afutara Airport	
+Uru Harbour Airport	AGAT
+Ballalae Airport	AGGE
+Choiseul Bay Airport	AGGC
+Sege Airport	AGGS
+Fera_Maringe Airport	AGGF
+Nusatupe Airport	AGGN
+Ngorangora Airport	AGGK
+Munda Airport	AGGM
+Santa Ana Airport	AGGT
+Ramata Airport	AGRM
+Ulawa Airport	AGAR
+Rennell_Tingoa Airport	AGGR
+Marau Airport	AGGU
+Santa Cruz_Graciosa Bay_Luova Airport	AGGL
+Suavanao Airport	AGGV
+Lampedusa	
+Pantelleria	
+Kostanay West Airport	UAUU
+Pavlodar	
+Land's End _ St. Just Airport	
+Yakutsk	
+Shahre Kord Airport	
+Khoram Abad Airport	OICK
+Birjand	
+Kangra Airport	VIGG
+Hubli Airport	VAHB
+Kandla	
+Shimla Airport	VISM
+Nizhny Novgorod	
+Khanty Mansiysk Airport	USHH
+Angoon Seaplane Base	PAGN
+Elfin Cove Seaplane Base	PAEL
+Tinson Pen	
+Pulau Pangkor Airport	WMPA
+Deir Zzor	
+Banja Luka International Airport	LQBK
+Aomori	
+Hanamaki	
+Matsumoto	
+Nagoya Airport	RJNA
+Altamira	
+Bonito Airport	SJDB
+Cascavel	
+Bartolomeu Lisandro	
+Forquilhinha	
+Carajas Airport	SBCJ
+Corumba Intl	
+Dourados Airport	SSDO
+Erechim Airport	SSER
+Fonte Boa Airport	SWOB
+Usiminas	
+Cachimbo	
+Marktoberdorf BF	
+Senadora Eunice Micheles Airport	SDCG
+Sinop Airport	LTCM
+Pelotas	
+Pampulha Carlos Drummond De Andrade	
+Patos de Minas Airport	SNPD
+Santa Maria Airport	SBSM
+Santa Rosa Airport	SSZR
+Tabatinga	
+Tefe	
+Tucurui	
+Rubem Berta	
+Amami	
+Akita	
+Yamagata	
+Izumo	
+Kochi	
+Kushiro Airport	RJCK
+Misawa Ab	
+Matsuyama	
+Nanki Shirahama	
+Tokushima	
+Yamaguchi Ube	
+Podgorica	
+Avalon	
+Selaparang	
+Fatmawati Soekarno	
+Muhammad Salahuddin	
+Fak Fak	
+Binaka	
+Kaimana	
+Malikus Saleh Airport	WITM
+Rendani	
+Nabire	
+Ranai Airport	WION
+Jefman	
+Tambolaka Airport	WADT
+Kijang	
+Juwata	
+Mau Hau	
+Fort Frances Municipal Airport	CYAG
+Dryden Rgnl	
+The Pas Airport	CYQD
+Red Lake Airport	CYRL
+Kapuskasing	
+JAGS McCartney International Airport	MBGT
+Halmstad	
+Jonkoping	
+Kristianstad	
+Karlstad Airport	ESOK
+Oskarshamn	
+Tatry	
+Boeing Fld King Co Intl	
+Gustavus Airport	PAGS
+Hoonah Airport	PAOH
+Haines Airport	PAHN
+Memorial Field	KHOT
+Boone Co	
+Jonesboro Muni	
+Skagway Airport	PAGY
+Salina Municipal Airport	KSLN
+Sihanoukville	
+Sary-Arka	
+Sacheon Air Base	RKPS
+Pohang	
+Kunsan Air Base	RKJK
+Gwangju	
+Yeosu	
+Ulsan	
+Wonju Airport	RKNW
+Bodrum - Milas	
+Dalaman	
+Ndola	
+Foshan	
+Beijing Nanyuan Airport	ZBNY
+Nampula	
+Pemba	
+Unalaska	
+Egegik Airport	PAII
+Igiugig Airport	PAIG
+False Pass Airport	PAKF
+Koliganek Airport	PAJZ
+Manokotak Airport	PAMB
+New Stuyahok Airport	PANW
+Akutan Seaplane Base	KQA
+King Cove Airport	PAVC
+Pilot Point Airport	PAPN
+Port Moller Airport	PAAL
+Port Heiden Airport	PAPH
+Togiak Airport	PATG
+Twin Hills Airport	
+Gerrard Smith Intl	
+Goloson Intl	
+Edward Bodden Airfield	MWCL
+Nouadhibou	
+Liege	
+Mayor General FAP Armando Revoredo Iglesias Airport	SPJR
+Mataveri Intl	
+Pichoy	
+Canouan	
+Benina	
+Sebha	
+Eday Airport	EGED
+Sanday Airport	EGES
+North Ronaldsay Airport	EGEN
+Papa Westray Airport	EGEP
+Stronsay Airport	EGER
+Westray Airport	EGEW
+Athens Ben Epps Airport	KAHN
+Alamogordo White Sands Regional Airport	KALM
+Cavern City Air Terminal	KCNM
+Hana	
+Kalaupapa Airport	PHLU
+Waimea Kohala	
+Forli	
+Orland	
+William R Fairchild International Airport	KCLM
+Orcas Island Airport	KORS
+Friday Harbor Seaplane Base	
+Friday Harbor Airport	KFHR
+Lopez Island Airport	S31
+Geneina Airport	HSGN
+Nyala Airport	HSNN
+Zaporizhzhia International Airport	UKDE
+Ouani	
+Antsirabato	
+Arrachart	
+Philibert Tsiranana	
+Morondava	
+Fascene	
+Sambava	
+Toliara	
+Toamasina	
+Maroantsetra	
+Bario Airport	WBGZ
+Bakalalan Airport	WBGQ
+Kudat Airport	WBKT
+Lahad Datu	
+Long Lellang Airport	WBGF
+Long Akah Airport	WBGL
+Limbang	
+Lawas Airport	WBGW
+Mukah Airport	WBGK
+Marudi	
+Mulu	
+Long Seridan Airport	WBGI
+Gillam Airport	CYGX
+Aswan Intl	
+Golmud Airport	ZLGM
+Simao Airport	
+Yushu Batang	
+Zhaotong Airport	ZPZT
+Municipal	
+Aniwa Airport	NVVB
+Craig Cove Airport	NVSF
+Dillon's Bay Airport	NVVD
+Futuna Airport	NVVF
+Ipota Airport	NVVI
+Lamen Bay Airport	NVSM
+Lonorore Airport	NVSO
+Longana Airport	NVSG
+Lamap Airport	NVSL
+Mota Lava Airport	NVSA
+Naone Airport	
+Norsup Airport	NVSP
+Tavie Airport	NVSI
+Sola Airport	NVSC
+Santo Pekoa International Airport	NVSS
+Sara Airport	NVSH
+Tanna island	
+Tongoa Island Airport	
+Torres Airstrip	NVSD
+Valesdir Airport	NVSV
+Walaha Airport	NVSW
+Gaua Island Airport	NVSQ
+Fukue	
+Hachijojima	
+Saga Airport	RJFS
+Iki	
+Ishigaki	
+Iwami Airport	RJOW
+Monbetsu	
+Miyakejima Airport	RJTQ
+Oshima	
+Odate Noshiro Airport	RJSR
+Nakashibetsu	
+Shonai Airport	RJSY
+Tsushima	
+Tottori	
+Wakkanai	
+Miho	
+Atlantic City Intl	
+Arnold Palmer Regional Airport	KLBE
+Al Ain International Airport	OMAL
+Sialkot Airport	OPST
+Gloucestershire	
+Gyumri	
+La Gomera Airport	GCGM
+Hierro	
+Yonaguni	
+Kumejima	
+Akureyri	
+Egilsstadir	
+Isafjordur	
+Reykjavik	
+Woodbourne	
+Gisborne	
+Hokitika	
+Niue International Airport	NIUE
+Invercargill	
+Kaitaia	
+Kerikeri	
+Masterton	
+Napier	
+Palmerston North	
+Paraparaumu	
+Timaru	
+Tauranga	
+Taupo	
+Wanganui	
+Whakatane	
+Wanaka	
+Whangarei	
+Westport	
+Karpathos	
+Ioannina	
+Kalymnos Island	
+Naxos	
+Syros Airport	LGSO
+Astypalaia	
+Kithira	
+Kasos	
+Kastelorizo	
+Leros	
+Milos	
+Paros	
+Kosice	
+Augsburg	
+Dnipropetrovsk Intl	
+Mudgee Airport	YMDG
+Narrabri Airport	YNBR
+Kuressaare	
+Erkilet	
+Mfuwe	
+Buon Ma Thuot Airport	VVBM
+Pleiku Airport	VVPK
+Phu Cat Airport	VVPC
+Co Ong Airport	VVCS
+Elazig	
+Hatay Airport	LTDA
+Konya	
+Sivas	
+Lampang	
+Trat	
+Sukhothai	
+Bahawalpur Airport	OPBW
+Chitral Airport	OPCH
+Dalbandin Airport	OPDB
+Dera Ghazi Khan Airport	OPDG
+Dera Ismael Khan Airport	OPDI
+Gilgit	
+Gwadar	
+Hyderabad Airport	OPKD
+Skardu Airport	OPSD
+Faisalabad Intl	
+Moenjodaro	
+Multan Intl	
+Panjgur	
+Zhob	
+Sukkur	
+Turbat International Airport	OPTU
+Quetta	
+Nawabshah	
+Bukoba Airport	HTBU
+Musoma Airport	HTMU
+Shinyanga Airport	HTSY
+Kigoma Airport	HTKA
+Buka Airport	AYBK
+Kavieng Airport	AYKV
+Momote Airport	AYMO
+Mendi Airport	AYMN
+Tari Airport	AYTA
+Vanimo Airport	AYVN
+Wapenamanda Airport	AYWD
+Hanimaadhoo Airport	VRMH
+Kaadedhdhoo	
+Kadhdhoo Airport	VRMK
+Healy River Airport	PAHV
+Aurukun Airport	YAUR
+Bedourie Airport	YBIE
+Boulia Airport	YBOU
+Burketown Airport	YBKT
+Birdsville Airport	YBDV
+Cunnamulla Airport	YCMU
+Cloncurry Airport	YCCY
+Coen Airport	YCOE
+Doomadgee Airport	YDMG
+Pormpuraaw Airport	YPMP
+Lockhart River Airport	YLHR
+Kowanyama Airport	YKOW
+Normanton Airport	YNTN
+Mornington Island Airport	YMTI
+St George Airport	YSGE
+Toowoomba	
+Quilpie Airport	YQLP
+Windorah Airport	YWDH
+Thargomindah Airport	YTGM
+Garoua	
+Salak	
+Barcaldine Airport	YBAR
+Bundaberg	
+Blackall	
+Dubbo	
+Devonport Airport	YDPO
+Emerald	
+Gove Airport	YPGV
+Horn Island Airport	YHID
+Lord Howe Island Airport	YLHI
+Longreach Airport	YLRE
+Moranbah Airport	YMRB
+Olympic Dam Airport	YOLD
+Paraburdoo Airport	YPBO
+Port Lincoln Airport	YPLC
+Roma Airport	YROM
+Weipa	
+Wagga Wagga	
+Karup	
+Bornholm Ronne	
+Sonderborg	
+Chileka Intl	
+Mykolaiv International Airport	UKON
+Luhansk International Airport	UKCW
+Pakse	
+Xieng Khouang	
+Savannakhet	
+Orsk Airport	UWOR
+Bratsk	
+Chokurdakh Airport	UESO
+Cherskiy Airport	UESS
+Tiksi Airport	UEST
+Leirin	
+Barquisimeto Intl	
+Josefa Camejo	
+Maturin	
+Biratnagar	
+Lamidanda	
+Pokhara	
+Phaplu	
+Rumjatar	
+Tumling Tar	
+Kamishly Airport	OSKL
+Vagar	
+Southend	
+Waterford	
+Aqaba King Hussein Intl	
+Marka Intl	
+Herat	
+Horta	
+Lajes	
+Conceicao Do Araguaia	
+Gurupi Airport	SWGI
+Minacu Airport	SBMC
+Ourilandia do Norte Airport	SDOW
+Redencao Airport	SNDC
+Confresa Airport	SJHG
+Sao Felix do Araguaia Airport	SWFX
+Sao Felix do Xingu Airport	SNFX
+Vityazevo	
+Spichenkovo Airport	UNWW
+Mukhino	
+Beira	
+Hoedspruit Afb	
+Kimberley	
+Moshoeshoe I Intl	
+Matsapha	
+Phalaborwa	
+Pietersburg	
+Pietermaritzburg	
+Walvis Bay Airport	FYWB
+Pointe Vele Airport	NLWF
+Kassala	
+Wau Airport	HSWW
+Kiruna	
+Kvernberget	
+Longyear	
+Corvo Airport	LPCR
+Graciosa	
+Al-Jawf Domestic Airport	OESK
+Qaisumah	
+Bisha	
+Dawadmi Domestic Airport	OEDM
+Nejran	
+Hail	
+Rafha	
+Sharurah	
+Taif	
+Turaif	
+Tabuk	
+Eros Airport	FYWE
+Luderitz Airport	FYLZ
+Katima Mulilo Airport	FYKM
+Rundu	
+Oranjemund Airport	FYOG
+Ondangwa Airport	FYOA
+Araguaina Airport	SWGN
+Barcelos Airport	SWBC
+Coari Airport	SWKO
+Diamantina Airport	SNDT
+Humaita Airport	SWHT
+Tapuruquara Airport	SWTP
+Labrea Airport	SWLB
+Sao Gabriel da Cachoeira Airport	SBUA
+Roumaniere	
+Bassillac	
+Mundo Maya International	
+Barau_Kalimaru_ Airport	WALK
+Khon Kaen	
+Rahadi Usman	
+Iskandar	
+Adiyaman Airport	LTCP
+Agri Airport	LTCO
+Anadolu Airport	LTBY
+Batman	
+Cardak	
+Erzincan	
+Kahramanmaras Airport	LTCN
+Kars Airport	LTCF
+Mus Airport	LTCK
+Merzifon	
+Nakhchivan Airport	UBBN
+Kapadokya	
+Elcho Island Airport	YELD
+Argyle Airport	YARG
+McArthur River Mine Airport	YMHU
+Milingimbi Airport	YMGB
+Maningrida Airport	YMGD
+Inhambane	
+Quelimane	
+Vilankulo	
+Chimoio Airport	FQCH
+Lichinga	
+Bournemouth	
+Habib Bourguiba Intl	
+Nefta	
+Thyna	
+Magenta	
+Kone	
+Koumac	
+Lifou	
+Tiga Airport	NWWA
+Touho	
+Ouvea	
+Sveg	
+Hagfors Airport	ESOH
+Kardla	
+Pajala Airport	ESUP
+Torsby Airport	ESST
+Bharatpur Airport	VNBP
+Dhangarhi	
+Nepalgunj Airport	VNNG
+Simara	
+Altoona Blair Co	
+Raleigh County Memorial Airport	KBKW
+Florence Rgnl	
+Hilton Head	
+Williamsport Rgnl	
+Inyokern Airport	KIYK
+Morgantown Muni Walter L Bill Hart Fld	
+Salisbury Ocean City Wicomico Rgnl	
+Shenandoah Valley Regional Airport	KSHD
+Loudes	
+Gabes	
+Gafsa	
+Koggala Airport	VCCK
+Ugolny Airport	UHMA
+Colonel Hill Airport	MYCI
+Matthew Town	
+Mayaguana	
+Stella Maris	
+Uzhhorod International Airport	UKLU
+Pobedilovo Airport	USKK
+Pechora	
+Ust-Kut	
+Usinsk	
+Vorkuta Airport	UUYW
+Flagstaff Pulliam Airport	KFLG
+Lynchburg Regional Preston Glenn Field	KLYH
+Canaima	
+Chernivtsi International Airport	UKLN
+Iliamna	
+Enugu	
+Sadiq Abubakar Iii Intl	
+Dien Bien Phu Airport	VVDB
+Maio	
+Sao Filipe Airport	GVSF
+Preguica	
+Anaa	
+Ahe Airport	NTHE
+Hiva Oa-Atuona Airport	NTMN
+Arutua	
+Bora Bora	
+Fakarava	
+Totegegie	
+Hao	
+Huahine	
+Kaukura	
+Maupiti	
+Makemo	
+Moorea	
+Mataiva	
+Niau	
+Raiatea	
+Rangiroa	
+Rimatara	
+Rurutu	
+Raivavae Airport	NTAV
+Tikehau	
+Takapoto	
+Takaroa	
+Tubuai	
+Ua Huka Airport	NTMU
+Ua Pou Airport	NTMP
+Tureia Airport	NTGY
+Lencero Airport	
+Lazaro Cardenas	
+Calabar	
+Ibadan	
+Ilorin	
+Yakubu Gowon	
+Kaduna	
+Maiduguri	
+Yola	
+Zhuliany Intl	
+Kengtung	
+Kyaukpyu	
+Myitkyina	
+Putao	
+Gisenyi	
+Kamembe	
+Batsfjord	
+Bronnoy	
+Berlevag	
+Hasvik	
+Hammerfest Airport	ENHF
+Hovden	
+Valan	
+Banak	
+Leknes Airport	ENLK
+Kjaerstad	
+Framnes	
+Namsos Høknesøra Airport	
+Ryum Airport	
+Skagen	
+Sogndal Airport	ENSG
+Sorkjosen Airport	ENSR
+Stokka	
+Svartnes Airport	
+Nain Airport	CYDP
+St. Lewis _Fox Harbour_ Airport	CCK4
+Port Hope Simpson Airport	CCP4
+Hopedale Airport	CYHO
+Chevery Airport	CYHR
+St Augustin Airport	CYIF
+Mary's Harbour Airport	CYMH
+Makkovik Airport	CYFT
+Natashquan	
+Rigolet Airport	CCZ2
+Postville Airport	CCD4
+Williams Harbour Airport	CCA6
+Kegaska Airport	CTK6
+Juancho E. Yrausquin	
+Dawson Community Airport	KGDV
+Wokal Field Glasgow International Airport	KGGW
+Lewistown Municipal Airport	KLWT
+Frank Wiley Field	KMLS
+Abbotsford	
+Khasab	
+Salalah	
+Ravensthorpe Airport	YNRV
+Igarka Airport	UOII
+Barreiras Airport	SNBR
+Mahshahr	
+Nis	
+Lipetsk Airport	UUOL
+Ulyanovsk East Airport	UWLW
+Marinduque Airport	RPUW
+Klawock Airport	PAKW
+Kayes Dag Dag	
+Western Nebraska Regional Airport	
+Cortez Muni	
+Clovis Muni	
+Dickinson Theodore Roosevelt Regional Airport	KDIK
+Devils Lake Regional Airport	KDVL
+North Platte Regional Airport Lee Bird Field	KLBF
+Riverton Regional	
+Sheridan County Airport	KSHR
+Telluride	
+Broken Hill Airport	YBHI
+Wynyard Airport	YWYY
+Ceduna Airport	YCDU
+Coober Pedy Airport	YCBP
+Griffith Airport	YGTH
+Grafton Airport	YGFN
+Hughenden Airport	YHUG
+Julia Creek Airport	YJLC
+Kingscote Airport	YKSC
+King Island Airport	YKII
+Lismore Airport	YLIS
+Mount Gambier Airport	YMTG
+Merimbula Airport	YMER
+Moruya Airport	YMRY
+Narrandera Airport	YNAR
+Orange Airport	YORG
+Parkes Airport	YPKS
+Taree Airport	YTRE
+Winton Airport	YWTN
+Whyalla Airport	YWHA
+Sion	

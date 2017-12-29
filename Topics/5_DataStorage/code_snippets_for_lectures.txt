@@ -1,0 +1,22 @@
+# MongoDB
+db.unicorns.insert({name: "Aurora", gender: "f", weight: 450}) 
+db.unicorns.insert({name: "Solnara", dob: new Date(1985, 6, 4, 2, 1), 
+                    loves:["apple", "carrot", "chocolate"],
+                    weight:550,
+                    gender:‘f’})
+db.unicorns.insert({name:"Ayna", dob: new Date(1998, 2, 7, 8, 30),
+                     loves: ["strawberry", "lemon"],
+                    weight: 733,
+                    gender: "f"})
+ db.unicorns.insert({name:"Kenny", dob: new Date(1997, 6, 1, 10, 42), 
+                    loves: ["grape", "lemon"],
+                    weight: 690,
+                    gender: "m"}) 
+db.unicorns.insert({name: "Raleigh", dob: new Date(2005, 4, 3, 0, 57),
+                     loves: ["apple", "sugar"],
+                    weight: 421,
+                    gender: "m"}) 
+db.unicorns.insert({name: "Leia", dob: new Date(2001, 9, 8, 14, 53), 
+                    loves: ["apple", "watermelon"],
+                    weight: 601,
+                    gender: "f"})
